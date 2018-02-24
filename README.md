@@ -1,3 +1,3 @@
-###Options Pricing
+Options Pricing
 
-###2-This repository contains functions that compute the price of a European Exotic put option and a european exotic put option.
+This repository contains functions that compute the price of a European Exotic put option and a european exotic put option.
